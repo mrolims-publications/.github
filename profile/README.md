@@ -1,4 +1,4 @@
-# # 📚 Publications by Matheus Rolim Sales
+# 📚 Publications by Matheus Rolim Sales
 
 Welcome to the **Publications** organization, where I share the code and data accompanying my research papers.  
 Each repository contains everything needed to **reproduce the results** from the corresponding publication, including source code, datasets (or links to them), and instructions.
