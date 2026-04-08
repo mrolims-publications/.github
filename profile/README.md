@@ -43,11 +43,15 @@ Each repository contains everything needed to **reproduce the results** from the
 ### **2023**
 
 - **[Stickiness and recurrence plots: an entropy based approach](https://github.com/mrolims-publications/StickinessRecurrencePlots)**  
-  _Authors: M. R. Sales, M. Mugnaine, J. Szezech, José D., R. L. Viana, I. L. Caldas, N. Marwan, and J. Kurths_  
+  _Authors: M. R. Sales, M. Mugnaine, J. D. Szezech, R. L. Viana, I. L. Caldas, N. Marwan, and J. Kurths_  
   [![DOI](https://img.shields.io/badge/DOI-10.1063%2F5.0140613-blue)](https://doi.org/10.1063/5.0140613)
 
   **Abstract**: The stickiness effect is a fundamental feature of quasi-integrable Hamiltonian systems. We propose the use of an entropy-based measure of the recurrence plots (RPs), namely, the entropy of the distribution of the recurrence times (estimated from the RP), to characterize the dynamics of a typical quasi-integrable Hamiltonian system with coexisting regular and chaotic regions. We show that the recurrence time entropy (RTE) is positively correlated to the largest Lyapunov exponent, with a high correlation coefficient. We obtain a multi-modal distribution of the finite-time RTE and find that each mode corresponds to the motion around islands of different hierarchical levels.
 
+- **[Dynamical aspects of Hamiltonian systems: Chaos, stickiness, and recurrence plots](https://github.com/mrolims-publications/hamiltonian-systems)**
+  _Doctoral thesis - Universidade Estadual de Ponta Grossa (UEPG), 2023_
+  _Author: M. R. Sales_
+  [![Full Text](https://img.shields.io/badge/Full%20Text-Available-green)](https://mrolims.github.io/files/thesis.pdf)
 
 
 ## Citation
