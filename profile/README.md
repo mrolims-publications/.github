@@ -50,13 +50,13 @@ Each repository contains everything needed to **reproduce the results** from the
 
 
 
-## 📄 Citation
+## Citation
 If you use the code from any of these repositories, please cite the corresponding publication (see the README in each repo).
 
-## 💬 Contact
+## Contact
 For questions or collaborations:
-- 📧 Email: [rolim.sales.m[at]gmail.com](mailto:rolim.sales.m@gmail.com)
-- 🌐 Website: [https://mrolims.github.io](https://mrolims.github.io)
+- Email: [rolim.sales.m[at]gmail.com](mailto:rolim.sales.m@gmail.com)
+- Website: [https://mrolims.github.io](https://mrolims.github.io)
 
 ---
 
