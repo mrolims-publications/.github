@@ -1,10 +1,10 @@
-# 📚 Publications by Matheus Rolim Sales
+# Publications by Matheus Rolim Sales
 
 Welcome to the **Publications** organization, where I share the code and data accompanying my research papers.  
 Each repository contains everything needed to **reproduce the results** from the corresponding publication, including source code, datasets (or links to them), and instructions.
 
 
-## 🗂 Index of Publications
+## Index of Publications
 
 ### **2026**
 - **[On the behavior of Linear Dependence, Smaller, and Generalized Alignment Indices in discrete and continuous chaotic systems](https://github.com/mrolims-publications/alignment-indices-chaotic)**  
