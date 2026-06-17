@@ -7,6 +7,13 @@ Each repository contains everything needed to **reproduce the results** from the
 ## Index of Publications
 
 ### **2026**
+
+- **[Hierarchical fragmentation of regular islands in a discontinuous nontwist map](https://github.com/mrolims-publications/fragmentation-esnm)**  
+  _Authors: M. R. Sales. M. Mugnaine, L. C. Souza, I. L. Caldas, E. D. Leonel, J. D. Szezech Jr._  
+  [![DOI](https://img.shields.io/badge/DOI-10.1063%2F5.0335604-blue)](https://doi.org/10.1063/5.0335604)
+
+  **Abstract**: The destruction of regular regions in two-dimensional, area-preserving maps is traditionally described in terms of the breakup of invariant curves and the persistence of transport barriers. Here, we investigate how this scenario changes when continuity is lost. We study the extended standard nontwist map with a perturbation whose period differs from a full revolution on the cylinder. In this setting, the induced map on the cylinder becomes discontinuous, even though the map remains smooth on the real line. Using complementary chaos diagnostics, we find that regular islands are not enclosed by a single invariant curve but instead undergo hierarchical fragmentation into smaller regular components connected by chaotic channels. We show that trajectories initialized near elliptic points exhibit long trapping followed by escape, ruling out the existence of a global transport barrier. The fragmentation occurs when island chains are centered on the discontinuity line, while island chains away from it preserve the conventional islands-around-islands structure. By restoring continuity of the induced map on the cylinder in a modified formulation, we recover smooth invariant curves and eliminate fragmentation, demonstrating that the hierarchical structure originates from discontinuity rather than twist violation alone. Similar behavior is also observed in other two-dimensional area-preserving maps, indicating that the phenomenon is not restricted to nontwist systems.
+
 - **[On the behavior of Linear Dependence, Smaller, and Generalized Alignment Indices in discrete and continuous chaotic systems](https://github.com/mrolims-publications/alignment-indices-chaotic)**  
   _Authors: M. R. Sales, E. D. Leonel, and C. G. Antonopoulos_  
   [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.chaos.2026.117884-blue)](https://doi.org/10.1016/j.chaos.2026.117884)
